@@ -11,3 +11,12 @@ function Login() {
         </div>
     );
 }
+
+
+function App() {
+    return (
+        <div className="app">
+            <Login />
+        </div>
+    );
+}
